@@ -1,0 +1,6 @@
+logging:
+  level:
+    org: ERROR
+
+server:
+  port: 8081
